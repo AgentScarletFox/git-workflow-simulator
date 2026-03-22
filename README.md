@@ -1,3 +1,5 @@
 # git-workflow-simulator
 ## 🎨 UI Feature
 Basic UI layout (simulated)
+### UI Components
+Added basic UI components structure (simulated)
