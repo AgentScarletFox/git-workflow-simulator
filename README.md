@@ -53,5 +53,8 @@ This project simulates a real-world Git workflow using branching strategies, pul
 
 ---
 
+### Integration Update
+Features merged into develop branch
+
 ## 📊 Outcome
 This project demonstrates how professional developers manage code using Git workflows.
